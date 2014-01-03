@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="intensityValues">
+        <item>Lindrig</item>
+        <item>Obehaglig</item>
+        <item>Besvärlig</item>
+        <item>Fruktansvärd</item>
+        <item>Outhärdlig</item>
+    </array>
+
+</resources>
